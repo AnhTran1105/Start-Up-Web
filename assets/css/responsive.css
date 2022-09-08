@@ -104,6 +104,12 @@
         float: right;
         padding-right: 13px;
     }
+    
+    #header .menu-icon i {
+        width: 24px;
+        height: 24px;
+        font-size: 20px;
+    }
 
     .slider-text .slider-first-des {
         font-size: 36px;
